@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/petarnenov/arc#readme",
   "dependencies": {
-    "chalk": "^3.0.0"
+    "chalk": "^4.1.2"
   }
 }
